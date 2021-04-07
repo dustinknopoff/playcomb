@@ -6,6 +6,8 @@ body {
 .container {
   width: 100vw;
   height: 100vh;
+  display: flex;
+  align-items: flex-end;
 }
 
 .toc-container {
@@ -39,8 +41,13 @@ body {
 }
 
 .list-item > a:active,
-.list-item > a:hover {
+.list-item > a:hover,
+.list-item > a.active {
   color: black;
   text-shadow: none;
   text-decoration: none;
+}
+
+.down-arrow {
+  margin-left: 10vw;
 }

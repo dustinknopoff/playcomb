@@ -2,7 +2,7 @@ import * as React from "react"
 import { Link } from "gatsby"
 import * as headerStyles from "./header.module.css"
 
-const Header = ({ headerBg }) => (
+const Header = ({ headerBg, scrollAction }) => (
   <header>
     <div
       className={headerStyles.container}
@@ -13,21 +13,52 @@ const Header = ({ headerBg }) => (
         <nav>
           <ul className={headerStyles.list}>
             <li className={headerStyles.listItem}>
-              <Link to="/the-model">The Model</Link>
+              <Link to="/the-model" activeClassName={headerStyles.active}>
+                The Model
+              </Link>
             </li>
             <li className={headerStyles.listItem}>
-              <Link to="/our-systems">Our Systems</Link>
+              <Link to="/our-systems" activeClassName={headerStyles.active}>
+                Our Systems
+              </Link>
             </li>
             <li className={headerStyles.listItem}>
-              <Link to="/the-process">The Process</Link>
+              <Link to="/the-process" activeClassName={headerStyles.active}>
+                The Process
+              </Link>
             </li>
             <li className={headerStyles.listItem}>
-              <Link to="/about">About</Link>
+              <Link to="/about" activeClassName={headerStyles.active}>
+                About
+              </Link>
             </li>
           </ul>
         </nav>
         <div />
       </div>
+      <svg
+        width="48"
+        height="87"
+        viewBox="0 0 48 87"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        className={headerStyles.downArrow}
+        onClick={scrollAction}
+      >
+        <rect
+          x="0.485527"
+          y="0.485527"
+          width="46.6106"
+          height="85.4528"
+          rx="23.3053"
+          stroke="white"
+          strokeWidth="0.971054"
+        />
+        <path
+          d="M23.8754 72.2589C24.0969 72.4803 24.4559 72.4803 24.6773 72.2589L28.2855 68.6507C28.5069 68.4293 28.5069 68.0703 28.2855 67.8489C28.0641 67.6275 27.7051 67.6275 27.4836 67.8489L24.2764 71.0562L21.0691 67.8489C20.8477 67.6275 20.4887 67.6275 20.2673 67.8489C20.0458 68.0703 20.0458 68.4293 20.2673 68.6507L23.8754 72.2589ZM23.7094 13.5947L23.7094 71.858L24.8433 71.858L24.8433 13.5947L23.7094 13.5947Z"
+          fill="white"
+        />
+      </svg>
     </div>
   </header>
 )

@@ -20,7 +20,12 @@ const Layout = ({ headerBg, children }) => {
 
   return (
     <React.Fragment>
-      <Header headerBg={headerBg} />
+      <Header
+        headerBg={headerBg}
+        scrollAction={() =>
+          mainRef.current.scrollIntoView({ behavior: "smooth" })
+        }
+      />
       <main ref={mainRef}>{children}</main>
     </React.Fragment>
   )
