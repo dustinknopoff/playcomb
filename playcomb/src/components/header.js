@@ -1,13 +1,33 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import * as headerStyles from "./header.module.css"
+import "react-responsive-carousel/lib/styles/carousel.min.css"
+import Carousel from "react-multi-carousel"
+import "react-multi-carousel/lib/styles.css"
 
-const Header = ({ headerBg, scrollAction }) => (
+const responsive = {
+  superLargeDesktop: {
+    // the naming can be any, depends on you.
+    breakpoint: { max: 4000, min: 3000 },
+    items: 1,
+  },
+  desktop: {
+    breakpoint: { max: 3000, min: 1024 },
+    items: 1,
+  },
+  tablet: {
+    breakpoint: { max: 1024, min: 464 },
+    items: 1,
+  },
+  mobile: {
+    breakpoint: { max: 464, min: 0 },
+    items: 1,
+  },
+}
+
+const Header = ({ headerBgs, scrollAction }) => (
   <header>
-    <div
-      className={headerStyles.container}
-      style={{ background: headerBg || "red" }}
-    >
+    <div className={headerStyles.container}>
       <div className={headerStyles.tocContainer}>
         <img src="logo.png" alt="logo" />
         <nav>
@@ -33,6 +53,23 @@ const Header = ({ headerBg, scrollAction }) => (
               </Link>
             </li>
           </ul>
+          <Carousel
+            responsive={responsive}
+            infinite={true}
+            autoPlay={true}
+            autoPlaySpeed={3000}
+            itemClass={headerStyles.carouselItem}
+            className="carousel"
+          >
+            {headerBgs.map(img => (
+              <img
+                src={img}
+                width="100vw"
+                height="100vw"
+                style={{ height: "100vh" }}
+              />
+            ))}
+          </Carousel>
         </nav>
         <div />
       </div>

@@ -11,7 +11,7 @@ import PropTypes from "prop-types"
 import Header from "./header"
 import "./layout.css"
 
-const Layout = ({ headerBg, children }) => {
+const Layout = ({ headerBgs, children }) => {
   const mainRef = React.useRef()
 
   React.useEffect(() => {
@@ -21,7 +21,7 @@ const Layout = ({ headerBg, children }) => {
   return (
     <React.Fragment>
       <Header
-        headerBg={headerBg}
+        headerBgs={headerBgs || ["./download 1.png"]}
         scrollAction={() =>
           mainRef.current.scrollIntoView({ behavior: "smooth" })
         }
