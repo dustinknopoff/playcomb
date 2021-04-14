@@ -4,6 +4,8 @@ import Layout from "../components/layout"
 import * as styles from "./themodel.module.css"
 import Carousel from "react-multi-carousel"
 import "react-multi-carousel/lib/styles.css"
+import "@google/model-viewer"
+
 const responsive = {
   superLargeDesktop: {
     // the naming can be any, depends on you.
@@ -55,6 +57,15 @@ const TheModel = () => {
         <img src="./download 1.png" onClick={e => activate(e, 1)} />
         <img src="./download 1.png" onClick={e => activate(e, 1)} />
       </Carousel>
+      <model-viewer
+        id="reveal"
+        loading="eager"
+        camera-controls
+        auto-rotate
+        src="https://assets.playcomb.space/file/playcomb/Swing+Land.glb"
+        alt="A 3D model of a shishkebab"
+        ar
+      ></model-viewer>
     </Layout>
   )
 }

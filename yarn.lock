@@ -1050,6 +1050,11 @@
     querystring "^0.2.0"
     strip-ansi "^6.0.0"
 
+"@google/model-viewer@^1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@google/model-viewer/-/model-viewer-1.6.0.tgz#4c930f095d9a8f109837629b8c617b7360921e2b"
+  integrity sha512-RykcEQgeHByLiv/JR8JqOJDxbtk+VMsIIbpPDjyqhUG5eL+UliG5eBiupbpUbrUi/Wp7K3z3XsIVDmz/fDrmLg==
+
 "@graphql-tools/batch-execute@^7.1.0":
   version "7.1.0"
   resolved "https://registry.yarnpkg.com/@graphql-tools/batch-execute/-/batch-execute-7.1.0.tgz#89fde91ae27c717a5f9f2fff9de8cb6efb7df956"
