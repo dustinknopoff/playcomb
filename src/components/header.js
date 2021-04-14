@@ -43,9 +43,7 @@ const Header = ({ headerBgs, scrollAction }) => (
               </Link>
             </li>
             <li className={headerStyles.listItem}>
-              <Link to="/the-process" activeClassName={headerStyles.active}>
-                The Process
-              </Link>
+              <a href="https://process.playcomb.space">The Process</a>
             </li>
             <li className={headerStyles.listItem}>
               <Link to="/about" activeClassName={headerStyles.active}>

@@ -5,6 +5,8 @@ import * as styles from "./themodel.module.css"
 import Carousel from "react-multi-carousel"
 import "react-multi-carousel/lib/styles.css"
 import "@google/model-viewer"
+import { Link, graphql } from "gatsby"
+import CarouselList from "../components/carousel_list"
 
 const responsive = {
   superLargeDesktop: {
@@ -26,9 +28,10 @@ const responsive = {
   },
 }
 
-const TheModel = () => {
+const TheModel = ({ data }) => {
   const [slide, setSlide] = React.useState(null)
   const [isMoving, setMoving] = React.useState(false)
+  const carouselList = CarouselList({ data })
 
   const activate = (e, num) => {
     if (isMoving) {
@@ -51,23 +54,28 @@ const TheModel = () => {
         beforeChange={() => setMoving(true)}
         afterChange={() => setMoving(false)}
       >
-        <img src="./download 1.png" onClick={e => activate(e, 1)} />
-        <img src="./download 1.png" onClick={e => activate(e, 1)} />
-        <img src="./download 1.png" onClick={e => activate(e, 1)} />
-        <img src="./download 1.png" onClick={e => activate(e, 1)} />
-        <img src="./download 1.png" onClick={e => activate(e, 1)} />
+        {carouselList}
       </Carousel>
-      <model-viewer
-        id="reveal"
-        loading="eager"
-        camera-controls
-        auto-rotate
-        src="https://assets.playcomb.space/file/playcomb/Swing+Land.glb"
-        alt="A 3D model of a shishkebab"
-        ar
-      ></model-viewer>
     </Layout>
   )
 }
+
+export const query = graphql`
+  query {
+    allMarkdownRemark {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            poster
+            alt
+          }
+        }
+      }
+    }
+  }
+`
 
 export default TheModel
