@@ -6,6 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "@google/model-viewer": "^1.6.0",
+    "@loadable/component": "^5.14.1",
     "gatsby": "^3.2.1",
     "gatsby-plugin-image": "^1.2.0",
     "gatsby-plugin-manifest": "^3.2.0",

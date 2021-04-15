@@ -7,7 +7,6 @@ import "react-multi-carousel/lib/styles.css"
 import "@google/model-viewer"
 import { Link, graphql } from "gatsby"
 import getCarouselList from "../components/carousel_list"
-import { node } from "prop-types"
 
 const responsive = {
   superLargeDesktop: {
