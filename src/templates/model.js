@@ -51,7 +51,6 @@ const TheModel = ({ data }) => {
         infinite={true}
         autoPlay={false}
         itemClass={styles.carouselItem}
-        ssr={true}
         ref={carousel}
         centerMode={true}
         afterChange={prev => console.log(prev)}
