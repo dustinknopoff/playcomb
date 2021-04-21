@@ -8,10 +8,14 @@ alt: "Playground island tarzan like play"
 scale: "1 1 1"
 ---
 
-Information on Treehouse
+About this island
 
-![](https://assets.playcomb.space/file/playcomb/treehouse---2.png)
-![](https://assets.playcomb.space/file/playcomb/Treehouse-4.png)
-![](https://assets.playcomb.space/file/playcomb/Treehouse.3.png)
+![](https://assets.playcomb.space/file/playcomb/treehouse+materials.png)
 
-This is important _tell me more_.
+![](https://assets.playcomb.space/file/playcomb/Treehouse2-1.png)
+![](https://assets.playcomb.space/file/playcomb/Treehouse2-2.png)
+
+
+Who does not want a treehouse? A place for you to feel the breeze of the wind and to listen to the birds. As the final stop for our adventure through nature, the Treehouse is designed for kids to take a rest and feel the nature in the city. Containing both straight and spiral slide, tire, and wooden climb, the Treehouse is also divided into three sections by plexiglass dividers, which allows multiple kids to play at the same time during this covid pandemic. 
+
+This island follows the idea of interaction while practicing safety guidelines. Different from a traditional treehouse, The Treehouse is fully exposed to the air for maximum circulation. Each section has its play objects so kids can play by themselves or interact with each other through the plexiglass dividers. 
