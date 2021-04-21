@@ -4,7 +4,7 @@ numHex: 3
 poster: "https://assets.playcomb.space/file/playcomb/small-Arrival+House+no_+background.png"
 glb: "https://assets.playcomb.space/file/playcomb/Arrival+House.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Arrival+House.usdz"
-alt: "rendered image of hexagon shape house on grass"
+alt: "hexagon shape of house with rope and rock climb to get on top and slide to get down"
 scale: "3 3 3"
 ---
 
