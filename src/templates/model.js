@@ -44,7 +44,6 @@ const TheModel = ({ data }) => {
 
   return (
     <Layout>
-      <p>Placeholder for carousel of 3D Models</p>
       <Carousel
         responsive={responsive}
         infinite={true}
@@ -56,6 +55,9 @@ const TheModel = ({ data }) => {
       >
         {carouselList}
       </Carousel>
+      <h2>{data.markdownRemark.frontmatter.name}</h2>
+      <p>{data.markdownRemark.frontmatter.numHex} Hexagons</p>
+      <hr />
       <model-viewer
         id="reveal"
         loading="eager"
@@ -82,6 +84,7 @@ export const query = graphql`
         name
         usdz
         glb
+        numHex
       }
     }
     allMarkdownRemark {

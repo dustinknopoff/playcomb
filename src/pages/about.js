@@ -4,7 +4,10 @@ import Layout from "../components/layout"
 
 const About = () => (
   <Layout>
-    <p>The about goes here</p>
+    <img
+      src="https://assets.playcomb.space/file/playcomb/logo.png"
+      alt="playcomb logo"
+    />
   </Layout>
 )
 

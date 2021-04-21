@@ -1,5 +1,6 @@
 ---
 name: "Arrival House"
+numHex: 3
 poster: "https://assets.playcomb.space/file/playcomb/Arrival+House+no_+background.png"
 glb: "https://assets.playcomb.space/file/playcomb/Arrival+House.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Arrival+House.usdz"

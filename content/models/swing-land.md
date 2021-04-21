@@ -1,5 +1,6 @@
 ---
 name: "Swing Land"
+numHex: 3
 poster: "https://assets.playcomb.space/file/playcomb/Swingland—nobackground.png"
 glb: "https://assets.playcomb.space/file/playcomb/Swing+Land.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Swing+Land.usdz"

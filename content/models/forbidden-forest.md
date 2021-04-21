@@ -1,5 +1,6 @@
 ---
 name: "Tarzan"
+numHex: 3
 poster: "https://assets.playcomb.space/file/playcomb/Forbidden+Forest+w_background.png"
 glb: "https://assets.playcomb.space/file/playcomb/forbidden+island.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/forbidden+island.usdz"

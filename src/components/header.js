@@ -29,7 +29,10 @@ const Header = ({ headerBgs, scrollAction }) => (
   <header>
     <div className={headerStyles.container}>
       <div className={headerStyles.tocContainer}>
-        <img src="logo.png" alt="logo" />
+        <img
+          src="https://assets.playcomb.space/file/playcomb/logo.png"
+          alt="logo"
+        />
         <nav>
           <ul className={headerStyles.list}>
             <li className={headerStyles.listItem}>
