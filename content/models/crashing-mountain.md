@@ -7,6 +7,8 @@ usdz: "https://assets.playcomb.space/file/playcomb/Crashing+Mountain.usdz"
 alt: ""
 ---
 
-Information on Crashing Mountains
+About Crashing Mountains
+
+![](https://assets.playcomb.space/file/playcomb/Carshingmountain+materials.png)
 
 ![](https://assets.playcomb.space/file/playcomb/Crashing+mountain.png)
