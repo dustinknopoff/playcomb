@@ -30,7 +30,9 @@ const Layout = ({ headerBgs, children }) => {
           mainRef.current.scrollIntoView({ behavior: "smooth" })
         }
       />
-      <main ref={mainRef}>{children}</main>
+      <main ref={mainRef} className={"gentle-flex"}>
+        {children}
+      </main>
     </React.Fragment>
   )
 }

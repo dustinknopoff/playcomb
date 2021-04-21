@@ -628,3 +628,24 @@ model-viewer {
 .right {
   width: 50%;
 }
+
+.gentle-flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1ch;
+  width: 100vw;
+}
+
+main img {
+  width: 50vw;
+}
+
+main {
+  text-align: left;
+}
+
+main p {
+  max-width: 640px;
+}
