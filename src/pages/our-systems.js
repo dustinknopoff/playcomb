@@ -6,8 +6,8 @@ import Layout from "../components/layout"
 
 const OurSystems = () => (
   <Layout>
-    <div className={styles.full}>
-      <div className={styles.left}>
+    <div className={"full"}>
+      <div className={"left"}>
         <h2>
           Modularity and multiplicity for <i>flexibility</i>
         </h2>
@@ -22,14 +22,14 @@ const OurSystems = () => (
           pariatur. Excepteur sint occaecat cupidatat non proident, sun
         </p>
       </div>
-      <div className={styles.right}>
+      <div className={"right"}>
         <img alt="picture of swing land" />
       </div>
     </div>
-    <div className={styles.full}>
+    <div className={"full"}>
       <video alt="playcomb video" />
     </div>
-    <div className={styles.full}>
+    <div className={"full"}>
       <h2 className={styles.overlapH2}>The Guiding Hand Principle</h2>
       <img alt="treehouse island" />
       <p>

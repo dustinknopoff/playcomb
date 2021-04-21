@@ -1,0 +1,48 @@
+.left {
+  width: 50%;
+}
+
+.left * {
+  margin: 0 auto;
+}
+
+.left > h3 {
+  width: max-content;
+}
+
+.right {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.caption {
+  text-align: center;
+}
+
+.profile {
+  margin: 10px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 20px;
+}
+
+.gallery > * {
+  height: 50%;
+  margin: 0 1rem 1rem 0;
+}
+
+.gallery > .odd {
+  width: 30%;
+}
+
+.gallery > .even {
+  width: 50%;
+}
+
+.logo {
+  width: 100vw;
+  max-width: 100vw;
+}

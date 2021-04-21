@@ -1,0 +1,36 @@
+.svg {
+  width: 250px;
+  margin: 0 auto;
+}
+
+.hex {
+  stroke-width: 2;
+  stroke: teal;
+  fill-opacity: 1;
+  transition: fill-opacity 0.8s;
+}
+.svg:hover .hex {
+  fill-opacity: 0.6;
+}
+.text {
+  stroke-width: 0.5;
+  stroke: teal;
+  opacity: 0;
+  fill: teal;
+  transition: fill-opacity 0.8s;
+  font-family: sans-serif;
+}
+.svg:hover .text {
+  opacity: 1;
+}
+
+.hex-border {
+  clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+  height: 200px;
+  opacity: 1;
+  transition: opacity 0.8s;
+}
+
+.hex-border:hover {
+  opacity: 0.6;
+}

@@ -155,6 +155,7 @@ hr {
   background: hsla(0, 0%, 0%, 0.2);
   border: none;
   height: 1px;
+  width: 60px;
 }
 button,
 input,
@@ -282,7 +283,7 @@ h3 {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 1.38316rem;
+  font-size: 64px;
   line-height: 1.1;
 }
 h4 {
@@ -614,4 +615,16 @@ model-viewer {
   height: 400px;
   background-color: #70bcd1;
   --poster-color: #ffffff00;
+}
+
+.full {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+}
+
+.left,
+.right {
+  width: 50%;
 }

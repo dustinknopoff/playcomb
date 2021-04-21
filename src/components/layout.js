@@ -21,7 +21,11 @@ const Layout = ({ headerBgs, children }) => {
   return (
     <React.Fragment>
       <Header
-        headerBgs={headerBgs || ["https://assets.playcomb.space/file/playcomb/Arrival+House1.png"]}
+        headerBgs={
+          headerBgs || [
+            "https://assets.playcomb.space/file/playcomb/Arrival+House1.png",
+          ]
+        }
         scrollAction={() =>
           mainRef.current.scrollIntoView({ behavior: "smooth" })
         }
