@@ -7,6 +7,12 @@ usdz: "https://assets.playcomb.space/file/playcomb/forbidden+island.usdz"
 alt: "Playground island tarzan like play"
 ---
 
-Information on Tarzan
+About this island
 
 ![](https://assets.playcomb.space/file/playcomb/forbiddenforest.png)
+
+![](https://assets.playcomb.space/file/playcomb/ForbiddenForest+materials.png)
+
+Discover what lurks in the shadows! Swings, ziplines, and drawbridges stand as props to allow the imagination to soar. Perhaps you’ll have to use rope swings to cross moats or gaping holes. Maybe you will discover secrets, hidden under old passageways. The adventure awaits! 
+
+This structure is another one featuring our design philosophy of modularity, similar to that of the Tarzan island. In fact, note the similarity between the pieces of this island and the connector and platform pieces provided by Tarzan. This island was also designed with accessibility in mind, allowing disabled chidlren in wheelchairs or crutches to make use the bridge, both on top and beneath, and the ramp (on the platform behind).
