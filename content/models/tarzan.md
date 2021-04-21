@@ -5,6 +5,7 @@ poster: "https://assets.playcomb.space/file/playcomb/small-Tarzanw_background.pn
 glb: "https://assets.playcomb.space/file/playcomb/Tarzan.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Tarzan.usdz"
 alt: "Playground island tarzan like play"
+scale: "2 2 2"
 ---
 
 About this island

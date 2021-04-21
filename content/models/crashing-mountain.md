@@ -5,6 +5,7 @@ poster: "https://assets.playcomb.space/file/playcomb/small-Crashing+mountain-+no
 glb: "https://assets.playcomb.space/file/playcomb/Crashing+Mountain.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Crashing+Mountain.usdz"
 alt: ""
+scale: "2 2 2"
 ---
 
 About Crashing Mountains

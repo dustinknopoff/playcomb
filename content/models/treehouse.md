@@ -5,6 +5,7 @@ poster: "https://assets.playcomb.space/file/playcomb/small-Treehouse2—nobackgr
 glb: "https://assets.playcomb.space/file/playcomb/TreeHouse.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/TreeHouse.usdz"
 alt: "Playground island tarzan like play"
+scale: "1 1 1"
 ---
 
 Information on Treehouse

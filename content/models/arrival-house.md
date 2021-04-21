@@ -5,6 +5,7 @@ poster: "https://assets.playcomb.space/file/playcomb/small-Arrival+House+no_+bac
 glb: "https://assets.playcomb.space/file/playcomb/Arrival+House.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Arrival+House.usdz"
 alt: "Playground reminiscent of Arrival (movie) spaceship"
+scale: "3 3 3"
 ---
 
 About this island 

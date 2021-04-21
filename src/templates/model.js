@@ -66,6 +66,8 @@ const TheModel = ({ data }) => {
         src={data.markdownRemark.frontmatter.glb}
         ios-src={data.markdownRemark.frontmatter.glb}
         alt={data.markdownRemark.frontmatter.alt}
+        bounds="tight"
+        scale={data.markdownRemark.frontmatter.scale}
         ar
       ></model-viewer>
       <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
@@ -85,6 +87,7 @@ export const query = graphql`
         usdz
         glb
         numHex
+        scale
       }
     }
     allMarkdownRemark {

@@ -5,6 +5,7 @@ poster: "https://assets.playcomb.space/file/playcomb/small-Parentisland—noback
 glb: "https://assets.playcomb.space/file/playcomb/Parent+island.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Parent+island.usdz"
 alt: "Playground island tarzan like play"
+scale: "1 1 1"
 ---
 
 About this island

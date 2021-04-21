@@ -5,6 +5,7 @@ poster: "https://assets.playcomb.space/file/playcomb/small-Swingland—nobackgro
 glb: "https://assets.playcomb.space/file/playcomb/Swing+Land.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Swing+Land.usdz"
 alt: "Playground island focusing on swings and water play"
+scale: "2 2 2"
 ---
 
 About this island
