@@ -7,7 +7,7 @@ usdz: "https://assets.playcomb.space/file/playcomb/Swing+Land.usdz"
 alt: "Playground island focusing on swings and water play"
 ---
 
-Information on Swing Land
+About this island
 
 ![](https://assets.playcomb.space/file/playcomb/Swingland+materials.png)
 
