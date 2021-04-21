@@ -1,10 +1,10 @@
 ---
-name: "Arrival House"
+name: "The Arrival House"
 numHex: 3
 poster: "https://assets.playcomb.space/file/playcomb/small-Arrival+House+no_+background.png"
 glb: "https://assets.playcomb.space/file/playcomb/Arrival+House.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Arrival+House.usdz"
-alt: "Playground reminiscent of Arrival (movie) spaceship"
+alt: "rendered image of hexagon shape house on grass"
 scale: "3 3 3"
 ---
 
