@@ -9,9 +9,9 @@ alt: "Playground island tarzan like play"
 
 About this island
 
-![](https://assets.playcomb.space/file/playcomb/forbiddenforest.png)
-
 ![](https://assets.playcomb.space/file/playcomb/ForbiddenForest+materials.png)
+
+![](https://assets.playcomb.space/file/playcomb/ForbiddenForest.png)
 
 Discover what lurks in the shadows! Swings, ziplines, and drawbridges stand as props to allow the imagination to soar. Perhaps you’ll have to use rope swings to cross moats or gaping holes. Maybe you will discover secrets, hidden under old passageways. The adventure awaits! 
 
