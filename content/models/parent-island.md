@@ -1,10 +1,10 @@
 ---
-name: "Parent Island"
+name: "The Parent Island"
 numHex: 1
 poster: "https://assets.playcomb.space/file/playcomb/small-Parentisland—nobackground.png"
 glb: "https://assets.playcomb.space/file/playcomb/Parent+island.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Parent+island.usdz"
-alt: "Playground island tarzan like play"
+alt: "One island place for parents to rest"
 scale: "1 1 1"
 ---
 
