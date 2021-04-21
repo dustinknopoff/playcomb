@@ -87,7 +87,7 @@ const About = () => (
         <div className={styles.profile}>
           <HexImage
             text={"Katherine"}
-            url={"https://assets.playcomb.space/file/playcomb/Katherine.jpg"}
+            url={"https://assets.playcomb.space/file/playcomb/Katherine.png"}
           />
           <p className={styles.caption}>
             Katherine Dong <br />
