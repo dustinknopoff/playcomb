@@ -64,7 +64,7 @@ const TheModel = ({ data }) => {
         camera-controls
         auto-rotate
         src={data.markdownRemark.frontmatter.glb}
-        ios-src={data.markdownRemark.frontmatter.glb}
+        ios-src={data.markdownRemark.frontmatter.usdz}
         alt={data.markdownRemark.frontmatter.alt}
         bounds="tight"
         scale={data.markdownRemark.frontmatter.scale}
