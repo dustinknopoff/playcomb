@@ -44,7 +44,6 @@ const TheModel = ({ data }) => {
 
   return (
     <Layout>
-      <p>Placeholder for carousel of 3D Models</p>
       <Carousel
         responsive={responsive}
         infinite={true}

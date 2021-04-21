@@ -29,6 +29,7 @@
   height: 200px;
   opacity: 1;
   transition: opacity 0.8s;
+  width: auto;
 }
 
 .hex-border:hover {
