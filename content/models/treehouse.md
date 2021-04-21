@@ -1,7 +1,7 @@
 ---
 name: "Treehouse"
 numHex: 3
-poster: "https://assets.playcomb.space/file/playcomb/Treehousew_background.png"
+poster: "https://assets.playcomb.space/file/playcomb/small-Treehouse2—nobackground.png"
 glb: "https://assets.playcomb.space/file/playcomb/TreeHouse.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/TreeHouse.usdz"
 alt: "Playground island tarzan like play"
