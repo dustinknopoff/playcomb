@@ -5,7 +5,7 @@ poster: "https://assets.playcomb.space/file/playcomb/small-Tarzanw_background.pn
 glb: "https://assets.playcomb.space/file/playcomb/Tarzan.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Tarzan.usdz"
 alt: "A tarzan like play island with rings, zipline and monkey bars"
-scale: "2 2 2"
+scale: "3 3 3"
 ---
 
 About this island

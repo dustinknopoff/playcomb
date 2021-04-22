@@ -2,10 +2,10 @@
 name: "The Forbidden Forest"
 numHex: 3
 poster: "https://assets.playcomb.space/file/playcomb/small-Forbidden+Forest+w_background.png"
-glb: "https://assets.playcomb.space/file/playcomb/forbidden+island.glb"
-usdz: "https://assets.playcomb.space/file/playcomb/forbidden+island.usdz"
+glb: "https://assets.playcomb.space/file/playcomb/Forbidden-Forest.glb"
+usdz: "https://assets.playcomb.space/file/playcomb/Forbidden-Forest.usdz"
 alt: "A forbidden place with swings and bridge to discover"
-scale: "3 3 3"
+scale: "5 5 5"
 ---
 
 ![](https://assets.playcomb.space/file/playcomb/ForbiddenForest+materials.png)

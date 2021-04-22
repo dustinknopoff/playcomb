@@ -2,10 +2,10 @@
 name: "SwingLand"
 numHex: 3
 poster: "https://assets.playcomb.space/file/playcomb/small-Swingland—nobackground.png"
-glb: "https://assets.playcomb.space/file/playcomb/Swing+Land.glb"
-usdz: "https://assets.playcomb.space/file/playcomb/Swing+Land.usdz"
+glb: "https://assets.playcomb.space/file/playcomb/SwingLand.glb"
+usdz: "https://assets.playcomb.space/file/playcomb/Swingland.usdz"
 alt: "Playground island with swings and water play"
-scale: "2 2 2"
+scale: "3 3 3"
 ---
 
 About this island
