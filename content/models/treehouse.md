@@ -8,8 +8,6 @@ alt: "A fully open structure treehouse with slides, tire climb and wooden climb"
 scale: "2 2 2"
 ---
 
-About this island
-
 ![](https://assets.playcomb.space/file/playcomb/treehouse+materials.png)
 
 ![](https://assets.playcomb.space/file/playcomb/Treehouse2-1.png)

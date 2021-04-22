@@ -8,8 +8,6 @@ alt: "Two Wooden bridges connect with a rock climb obstacle"
 scale: "2 2 2"
 ---
 
-About Crashing Mountains
-
 ![](https://assets.playcomb.space/file/playcomb/Carshingmountain+materials.png)
 
 ![](https://assets.playcomb.space/file/playcomb/Crashing+mountain.png)

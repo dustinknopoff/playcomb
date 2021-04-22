@@ -8,8 +8,6 @@ alt: "Outdoor open up maze with tunnel, wood climb and slide"
 scale: "1.5 1.5 1.5"
 ---
 
-About this island
-
 ![](https://assets.playcomb.space/file/playcomb/Maze+materials.png)
 ![](https://assets.playcomb.space/file/playcomb/The+Maze1.png)
 ![](https://assets.playcomb.space/file/playcomb/The+Maze2.png)

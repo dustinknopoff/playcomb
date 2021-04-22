@@ -8,8 +8,6 @@ alt: "hexagon shape of house with rope and rock climb to get on top and slide to
 scale: "5 5 5"
 ---
 
-About this island 
-
 ![](https://assets.playcomb.space/file/playcomb/Arrival+House+materials.png)
 
 ![](https://assets.playcomb.space/file/playcomb/Arrival+House1.png)

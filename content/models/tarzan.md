@@ -8,8 +8,6 @@ alt: "A tarzan like play island with rings, zipline and monkey bars"
 scale: "3 3 3"
 ---
 
-About this island
-
 ![](https://assets.playcomb.space/file/playcomb/Tarzan+materials.png)
 
 ![](https://assets.playcomb.space/file/playcomb/TARZAN.png)

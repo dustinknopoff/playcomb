@@ -8,8 +8,6 @@ alt: "One island place for parents to rest"
 scale: "1.5 1.5 1.5"
 ---
 
-About this island
-
 ![](https://assets.playcomb.space/file/playcomb/Parent+island+materials.png)
 
 ![](https://assets.playcomb.space/file/playcomb/Parentisland.png)

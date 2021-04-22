@@ -8,8 +8,6 @@ alt: "Playground island with swings and water play"
 scale: "3 3 3"
 ---
 
-About this island
-
 ![](https://assets.playcomb.space/file/playcomb/Swingland+materials.png)
 
 ![](https://assets.playcomb.space/file/playcomb/Swingland.png)
