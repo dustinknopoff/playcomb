@@ -15,3 +15,9 @@
   margin: 20px;
   margin-right: -40px;
 }
+
+@media screen and (max-width: 768px) {
+  .left h2 {
+    font-size: 2em;
+  }
+}

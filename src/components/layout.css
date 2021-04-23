@@ -282,7 +282,7 @@ h3 {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 64px;
+  font-size: 3em;
   line-height: 1.1;
 }
 h4 {
@@ -648,4 +648,29 @@ main {
 
 main p {
   max-width: 640px;
+}
+
+@media screen and (max-width: 768px) {
+  main img {
+    width: 100vw;
+  }
+
+  main p {
+    margin: 20px auto;
+  }
+
+  .full {
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .left,
+  .right {
+    width: 100%;
+    margin: 20px auto;
+  }
+
+  h3 {
+    font-size: 2em;
+  }
 }
