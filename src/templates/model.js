@@ -72,11 +72,15 @@ const TheModel = ({ data }) => {
         bounds="tight"
         scale={data.markdownRemark.frontmatter.scale}
         ar
-      ></model-viewer><br></br>
+      ></model-viewer>
+      <br></br>
       <img src={data.markdownRemark.frontmatter.materials} />
       <h2>About this island</h2>
       <hr />
-      <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
+      <div
+        className={styles.modelContent}
+        dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
+      />
     </Layout>
   )
 }
