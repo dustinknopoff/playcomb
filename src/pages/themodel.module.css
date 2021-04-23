@@ -3,5 +3,8 @@
 }
 
 .model-content {
+  margin-top: 5%;
   display: flex;
+  padding: 5%;
+  gap: 4%;
 }
