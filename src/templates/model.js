@@ -55,9 +55,12 @@ const TheModel = ({ data }) => {
       >
         {carouselList}
       </Carousel>
-      <h2>{data.markdownRemark.frontmatter.name}</h2>
-      <p>{data.markdownRemark.frontmatter.numHex} Hexagons</p>
-      <hr />
+      <div id="island_title">
+        <h2>{data.markdownRemark.frontmatter.name}</h2>
+        <h5>{data.markdownRemark.frontmatter.numHex} Hexagons</h5>
+        <hr />
+        <br></br>
+      </div>
       <model-viewer
         id="reveal"
         loading="eager"

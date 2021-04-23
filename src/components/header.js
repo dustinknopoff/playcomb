@@ -37,12 +37,12 @@ const Header = ({ headerBgs, scrollAction }) => (
           <ul className={headerStyles.list}>
             <li className={headerStyles.listItem}>
               <Link to="/the-model" activeClassName={headerStyles.active}>
-                The Model
+                The Models
               </Link>
             </li>
             <li className={headerStyles.listItem}>
               <Link to="/our-systems" activeClassName={headerStyles.active}>
-                Our Systems
+                Our System
               </Link>
             </li>
             <li className={headerStyles.listItem}>

@@ -53,10 +53,10 @@ const About = () => (
       </div>
     </div>
     <div className="full">
-      <div className={styles.left}>
+      <div className="left">
         <h3>Our Team</h3>
         <hr />
-        <p style={{ margin: "100px" }}>
+        <p style={{ width: "80%" }}>
           Hello! We are Playcomb! We are seniors from Northeastern University.
           Together with our various skillsets, we are the team bringing Playcomb
           to life!

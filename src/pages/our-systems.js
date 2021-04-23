@@ -13,13 +13,15 @@ const OurSystems = () => (
         </h2>
         <hr />
         <p>
-          This island serves to be where parents look out onto the rest of the
-          playgrounds. Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-          enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-          ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sun
+        A key distinguishing factor of our playground from others is its flexibility 
+        to work during COVID or post-COVID, in a small middle-of-the-city park or a large 
+        empty space in the suburbs. To accomplish this flexibility, we’ve designed our 
+        playground with modularity in mind. Our playground is a collection of “islands” 
+        that can be configured and re-configured as desired on a hexogonal grid. Coupled 
+        with this idea of modularity, and intended to keep kids separated, is our other key 
+        design principle of multiplicity. By making the same experience available in 
+        multiple places, kids can share experiences from a safe distance, and not feel 
+        the need to crowd into the only space available for an activity there is to do. 
         </p>
       </div>
       <div className={"right"} style={{ margin: "20px" }}>
@@ -33,12 +35,15 @@ const OurSystems = () => (
       <video alt="playcomb video" />
     </div>
     <div className={"full"}>
-      <div className="left">
-        <h2 className={styles.overlapH2}>The Guiding Hand Principle</h2>
+      <div className="left2">
+        <h2>The Guiding Hand Principle</h2>
         <hr />
       </div>
-      <div className="right">
-        <p>
+      <div className="middle" style={{ marginTop: "20%"}}>
+        <img src="https://assets.playcomb.space/file/playcomb/Parentisland.png" />
+      </div>
+      <div className="right2" style={{ marginTop: "20%"}}>
+        <p style={{ width: "80%" }}>
           Kids are chaos. They are are incredibly difficult to regulate,
           especially on rules about physical self-control. But the beauty of
           design is its subtle intentionality. We don’t have try quite as hard

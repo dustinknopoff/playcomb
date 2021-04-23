@@ -1,10 +1,5 @@
 .left {
-  margin: 20px;
-}
-
-.left h2,
-.overlapH2 {
-  font-size: 64px;
+  margin: 4%;
 }
 
 .left hr {
@@ -12,6 +7,7 @@
 }
 
 .overlapH2 {
+  padding: 10%;
   margin: 20px;
   margin-right: -40px;
 }
