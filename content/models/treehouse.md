@@ -2,13 +2,12 @@
 name: "The Treehouse"
 numHex: 3
 poster: "https://assets.playcomb.space/file/playcomb/small-Treehouse2—nobackground.png"
+materials: "https://assets.playcomb.space/file/playcomb/treehouse+materials.png"
 glb: "https://assets.playcomb.space/file/playcomb/Treehouse.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Treehouse.usdz"
 alt: "A fully open structure treehouse with slides, tire climb and wooden climb"
 scale: "2 2 2"
 ---
-
-![](https://assets.playcomb.space/file/playcomb/treehouse+materials.png)
 
 ![](https://assets.playcomb.space/file/playcomb/Treehouse2-1.png)
 ![](https://assets.playcomb.space/file/playcomb/Treehouse2-2.png)

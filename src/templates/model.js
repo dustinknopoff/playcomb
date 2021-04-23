@@ -73,6 +73,7 @@ const TheModel = ({ data }) => {
         scale={data.markdownRemark.frontmatter.scale}
         ar
       ></model-viewer><br></br>
+      <img src={data.markdownRemark.frontmatter.materials} />
       <h2>About this island</h2>
       <hr />
       <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
@@ -93,6 +94,7 @@ export const query = graphql`
         glb
         numHex
         scale
+        materials
       }
     }
     allMarkdownRemark {

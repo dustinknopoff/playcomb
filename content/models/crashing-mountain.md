@@ -2,13 +2,12 @@
 name: "Crashing Mountain"
 numHex: 4
 poster: "https://assets.playcomb.space/file/playcomb/small-Crashing+mountain-+no+background.png"
+materials: "https://assets.playcomb.space/file/playcomb/Carshingmountain+materials.png"
 glb: "https://assets.playcomb.space/file/playcomb/Crashing+Mountain.glb"
 usdz: "https://assets.playcomb.space/file/playcomb/Crashing+Mountain.usdz"
 alt: "Two Wooden bridges connect with a rock climb obstacle"
 scale: "2 2 2"
 ---
-
-![](https://assets.playcomb.space/file/playcomb/Carshingmountain+materials.png)
 
 ![](https://assets.playcomb.space/file/playcomb/Crashing+mountain.png)
 
