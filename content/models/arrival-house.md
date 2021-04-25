@@ -14,8 +14,12 @@ scale: "5 5 5"
 </div>
 
 <div class="about-desc">
-<h2>About this island</h2>
-<hr />
-<p>
-Wants slide, net climbing, rock climbing, marble run all in one place? The Arrival House has all the kids want! Inspired by the spaceship in Arrival, Arrival House encompasses the desire to "play house." It is like the starting point of this adventure through nature. Kids can take a rest in the under area playing with the marble to let it run from top to bottom. When kids are ready, get on the top area and slide down, your adventure begins!<br><br>The Arrival House is designed into two parts. The top area is a linear run-through. Kids can climb up and slide down. The bottom area allows two kids to play at the same time during the covid pandemic, carefully divided by plexiglass dividers. Kids can interact through the marble run spinner in the middle. There are holes on both the plexiglass and the steel deck to allow more airflow.
-</p></div>
+    <h2>About this island</h2>
+    <hr />
+    <p>
+    A slide, net climbing, rock climbing, and marble run all in one place!? The <i>Arrival House</i> has everything a kid could want! Inspired by the spaceship in Arrival, <i>Arrival House</i> encompasses the desire to "play house." It is the starting point of this adventure through nature. Kids can take a rest in the under area playing with the marble to let it run from top to bottom. Looking to get energetic? Popup over and go down the slide!
+    </p>
+    <p>
+    The <i>Arrival House</i> is designed in two parts. The top area is a linear run-through involving climbing and a slide. The 'house' allows two kids to play in the same space. During the COVID pandemic, a plexiglass panel separates the two halves. Kids can interact through the marble run spinner in the middle. There are holes on both the plexiglass and the steel deck to allow more airflow.
+    </p>
+</div>

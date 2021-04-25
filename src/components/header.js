@@ -29,10 +29,12 @@ const Header = ({ headerBgs, scrollAction }) => (
   <header>
     <div className={headerStyles.container}>
       <div className={headerStyles.tocContainer}>
-        <img
-          src="https://assets.playcomb.space/file/playcomb/logo.png"
-          alt="logo"
-        />
+        <Link to="/">
+          <img
+            src="https://assets.playcomb.space/file/playcomb/logo.png"
+            alt="logo"
+          />
+        </Link>
         <nav>
           <ul className={headerStyles.list}>
             <li className={headerStyles.listItem}>
@@ -58,7 +60,7 @@ const Header = ({ headerBgs, scrollAction }) => (
             responsive={responsive}
             infinite={true}
             autoPlay={true}
-            autoPlaySpeed={3000}
+            autoPlaySpeed={5000}
             itemClass={headerStyles.carouselItem}
             className="carousel"
           >

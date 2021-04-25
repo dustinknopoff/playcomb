@@ -14,8 +14,26 @@ scale: "3 3 3"
 </div>
 
 <div class="about-desc">
-<h2>About this island</h2>
-<hr />
-<p>
-How can our nature adventure not have water? Freedom through flight. Reach the tallest towers and swing over the trees themselves in this immersive space with swings in all shapes and sizes and sprinklers for the warmest days. <br><br>Swingland is your third stop! Wash off your exhausted here. This island contains two normal swing, one tire swing, two spring animals and one sprinkler area. These facilities are spaced out in three hexagons which kids can play at safe distances from each other. 
-</p></div>
+    <h2>About this island</h2>
+    <hr />
+    <p>
+    How can our nature adventure not have water? 
+    </p>
+    <p>
+    Freedom through flight. 
+    </p>
+    <p>
+    Reach the tallest towers and swing over the trees themselves in this immersive space with swings in all shapes and sizes and sprinklers for the warmest days. </p>
+    <p>
+    Wash off your exhaustion at <i>Swingland</i>. This island contains
+    <p>
+    <ul>
+     <li>two normal swings</li>
+     <li>one tire swing</li>
+     <li>two spring animal</li>
+     <li>one sprinkler area</li>
+    </ul>
+     <p>
+     Spread across 18 feet, play at safe distances is easy. 
+    </p>
+</div>

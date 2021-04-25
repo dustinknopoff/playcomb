@@ -398,7 +398,7 @@ p {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  font-size: 12px;
+  font-size: 16px;
 }
 pre {
   margin-left: 0;
@@ -685,7 +685,7 @@ main p {
   width: 50%;
   height: 100%;
   margin-left: 4%;
-  display: grid; 
+  display: grid;
   grid-template-columns: repeat(12, 1fr);
   position: relative;
 }

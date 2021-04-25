@@ -19,5 +19,17 @@ scale: "2 2 2"
 <h2>About this island</h2>
 <hr />
 <p>
-Who does not want a treehouse? A place for you to feel the breeze of the wind and to listen to the birds. As the final stop for our adventure through nature, the Treehouse is designed for kids to take a rest and feel the nature in the city. Containing both straight and spiral slide, tire, and wooden climb, the Treehouse is also divided into three sections by plexiglass dividers, which allows multiple kids to play at the same time during this covid pandemic. <br><br> This island follows the idea of interaction while practicing safety guidelines. Different from a traditional treehouse, The Treehouse is fully exposed to the air for maximum circulation. Each section has its play objects so kids can play by themselves or interact with each other through the plexiglass dividers. 
+Who does not want a treehouse? A place for you to feel the breeze of the wind and to listen to the birds. The <i>Treehouse</i> is designed for kids to take a rest and feel the nature in the city. Containing both 
+</p>
+<ul>
+<li>straight</li>
+<li>spiral slide</li>
+<li>tire</li>
+<li>climbing aparatus</li>
+</ul>
+<p>
+The Treehouse is also divided into three sections by plexiglass dividers, which allows multiple kids to play at the same time during the COVID pandemic. 
+</p>
+<p>
+ This island follows the idea of interaction while practicing safety guidelines. Different from a traditional treehouse, The Treehouse is fully exposed to the air for maximum circulation. Each section has play objects for individual play or interact with others through the plexiglass dividers. 
 </p></div>

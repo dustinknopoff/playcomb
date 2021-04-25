@@ -24,6 +24,13 @@ const Layout = ({ headerBgs, children }) => {
         headerBgs={
           headerBgs || [
             "https://assets.playcomb.space/file/playcomb/Arrival+House1.png",
+            "https://assets.playcomb.space/file/playcomb/Crashing+mountain.png",
+            "https://assets.playcomb.space/file/playcomb/ForbiddenForest.png",
+            "https://assets.playcomb.space/file/playcomb/Parentisland.png",
+            "https://assets.playcomb.space/file/playcomb/Swingland.png",
+            "https://assets.playcomb.space/file/playcomb/TARZAN.png",
+            "https://assets.playcomb.space/file/playcomb/The+Maze2.png",
+            "https://assets.playcomb.space/file/playcomb/Treehouse2-2.png",
           ]
         }
         scrollAction={() =>

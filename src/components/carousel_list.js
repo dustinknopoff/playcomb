@@ -11,7 +11,7 @@ const CarouselList = ({ data }) => {
     const { slug } = fields
     return (
       <Link to={slug} activeClassName={styles.active}>
-        <img src={poster} alt={alt} />
+        <img async defer src={poster} alt={alt} />
       </Link>
     )
   })
