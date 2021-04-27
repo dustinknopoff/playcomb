@@ -38,7 +38,7 @@ const Header = ({ headerBgs, scrollAction }) => (
         <nav>
           <ul className={headerStyles.list}>
             <li className={headerStyles.listItem}>
-              <Link to="/the-model" activeClassName={headerStyles.active}>
+              <Link to="/arrival-house" activeClassName={headerStyles.active}>
                 The Models
               </Link>
             </li>
@@ -76,7 +76,7 @@ const Header = ({ headerBgs, scrollAction }) => (
         </nav>
         <div />
       </div>
-      <svg
+      {window.location.search.length > 0 && (<svg
         width="48"
         height="87"
         viewBox="0 0 48 87"
@@ -98,7 +98,7 @@ const Header = ({ headerBgs, scrollAction }) => (
           d="M23.8754 72.2589C24.0969 72.4803 24.4559 72.4803 24.6773 72.2589L28.2855 68.6507C28.5069 68.4293 28.5069 68.0703 28.2855 67.8489C28.0641 67.6275 27.7051 67.6275 27.4836 67.8489L24.2764 71.0562L21.0691 67.8489C20.8477 67.6275 20.4887 67.6275 20.2673 67.8489C20.0458 68.0703 20.0458 68.4293 20.2673 68.6507L23.8754 72.2589ZM23.7094 13.5947L23.7094 71.858L24.8433 71.858L24.8433 13.5947L23.7094 13.5947Z"
           fill="white"
         />
-      </svg>
+      </svg>)}
     </div>
   </header>
 )

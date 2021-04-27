@@ -16,11 +16,11 @@ const About = () => (
         <div class={styles.gallery}>
           <img
             class={styles.even}
-            src="https://assets.playcomb.space/file/playcomb/Treehouse2-2.png"
+            src="https://assets.playcomb.space/file/playcomb/Arrival+House1.png"
           />
           <img
             class={styles.odd}
-            src="https://assets.playcomb.space/file/playcomb/TARZAN.png"
+            src="https://assets.playcomb.space/file/playcomb/IMG_1546.jpeg"
           />
           <img
             class={styles.odd}
@@ -57,9 +57,8 @@ const About = () => (
         <h3>Our Team</h3>
         <hr />
         <p style={{ width: "80%" }}>
-          Hello! We are Playcomb! We are seniors from Northeastern University.
-          Together with our various skillsets, we are the team bringing Playcomb
-          to life!
+          The team behind Playcomb has a broad set of skills set across the design and technical spectrum.
+          Together we've brought to life the spark of "What would a playground made for COVID times look like?" and turned it into this!
         </p>
       </div>
       <div class={styles.right}>
