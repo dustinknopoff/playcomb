@@ -31,9 +31,10 @@ const OurSystems = () => (
         />
       </div>
     </div>
-    <div className={"full"}>
+    {/*<div className={"full"}>
       <video alt="playcomb video" />
     </div>
+    */}
     <div className={"full"}>
       <div className="left2">
         <h2>The Guiding Hand Principle</h2>
