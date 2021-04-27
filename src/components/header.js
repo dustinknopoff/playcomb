@@ -76,7 +76,7 @@ const Header = ({ headerBgs, scrollAction }) => (
         </nav>
         <div />
       </div>
-      {window && window.location.search.length > 0 && (<svg
+      {typeof window !== "undefined" && window.location.search.length > 0 && (<svg
         width="48"
         height="87"
         viewBox="0 0 48 87"
