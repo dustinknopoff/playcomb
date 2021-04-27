@@ -31,10 +31,11 @@ const OurSystems = () => (
         />
       </div>
     </div>
-    {/*<div className={"full"}>
-      <video alt="playcomb video" />
+    <div className={"full"}>
+      <video alt="playcomb video" autoPlay muted loop>
+        <source src="https://assets.playcomb.space/file/playcomb/Animation.mp4" type="video/mp4" />
+      </video>
     </div>
-    */}
     <div className={"full"}>
       <div className="left2">
         <h2>The Guiding Hand Principle</h2>
