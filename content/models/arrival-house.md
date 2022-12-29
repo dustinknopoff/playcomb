@@ -1,16 +1,16 @@
 ---
 name: "The Arrival House"
 numHex: 3
-poster: "https://assets.playcomb.space/file/playcomb/small-Arrival+House+no_+background.png"
-materials: "https://assets.playcomb.space/file/playcomb/Carshingmountain+materials.png"
-glb: "https://assets.playcomb.space/file/playcomb/Arrival-House.glb"
-usdz: "https://assets.playcomb.space/file/playcomb/Arrival-House.usdz"
+poster: "https://f001.backblazeb2.com/file/playcomb/small-Arrival+House+no_+background.png"
+materials: "https://f001.backblazeb2.com/file/playcomb/Carshingmountain+materials.png"
+glb: "https://f001.backblazeb2.com/file/playcomb/Arrival-House.glb"
+usdz: "https://f001.backblazeb2.com/file/playcomb/Arrival-House.usdz"
 alt: "hexagon shape of house with rope and rock climb to get on top and slide to get down"
 scale: "5 5 5"
 ---
 
 <div class="about-img">
-    <img src="https://assets.playcomb.space/file/playcomb/Arrival+House1.png" />
+    <img src="https://f001.backblazeb2.com/file/playcomb/Arrival+House1.png" />
 </div>
 
 <div class="about-desc">

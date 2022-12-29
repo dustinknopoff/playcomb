@@ -31,7 +31,7 @@ const Header = ({ headerBgs, scrollAction }) => (
       <div className={headerStyles.tocContainer}>
         <Link to="/">
           <img
-            src="https://assets.playcomb.space/file/playcomb/logo.png"
+            src="https://f001.backblazeb2.com/file/playcomb/logo.png"
             alt="logo"
           />
         </Link>

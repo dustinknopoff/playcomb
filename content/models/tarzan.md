@@ -1,16 +1,16 @@
 ---
 name: "Tarzan"
 numHex: 7
-poster: "https://assets.playcomb.space/file/playcomb/small-Tarzanw_background.png"
-materials: "https://assets.playcomb.space/file/playcomb/Tarzan+materials.png"
-glb: "https://assets.playcomb.space/file/playcomb/Tarzan.glb"
-usdz: "https://assets.playcomb.space/file/playcomb/Tarzan.usdz"
+poster: "https://f001.backblazeb2.com/file/playcomb/small-Tarzanw_background.png"
+materials: "https://f001.backblazeb2.com/file/playcomb/Tarzan+materials.png"
+glb: "https://f001.backblazeb2.com/file/playcomb/Tarzan.glb"
+usdz: "https://f001.backblazeb2.com/file/playcomb/Tarzan.usdz"
 alt: "A tarzan like play island with rings, zipline and monkey bars"
 scale: "3 3 3"
 ---
 
 <div class="about-img">
-    <img src="https://assets.playcomb.space/file/playcomb/TARZAN.png" />
+    <img src="https://f001.backblazeb2.com/file/playcomb/TARZAN.png" />
 </div>
 
 <div class="about-desc">

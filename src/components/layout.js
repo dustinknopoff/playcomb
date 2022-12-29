@@ -23,14 +23,14 @@ const Layout = ({ headerBgs, children }) => {
       <Header
         headerBgs={
           headerBgs || [
-            "https://assets.playcomb.space/file/playcomb/Arrival+House1.png",
-            "https://assets.playcomb.space/file/playcomb/Crashing+mountain.png",
-            "https://assets.playcomb.space/file/playcomb/ForbiddenForest.png",
-            "https://assets.playcomb.space/file/playcomb/Parentisland.png",
-            "https://assets.playcomb.space/file/playcomb/Swingland.png",
-            "https://assets.playcomb.space/file/playcomb/TARZAN.png",
-            "https://assets.playcomb.space/file/playcomb/The+Maze2.png",
-            "https://assets.playcomb.space/file/playcomb/Treehouse2-2.png",
+            "https://f001.backblazeb2.com/file/playcomb/Arrival+House1.png",
+            "https://f001.backblazeb2.com/file/playcomb/Crashing+mountain.png",
+            "https://f001.backblazeb2.com/file/playcomb/ForbiddenForest.png",
+            "https://f001.backblazeb2.com/file/playcomb/Parentisland.png",
+            "https://f001.backblazeb2.com/file/playcomb/Swingland.png",
+            "https://f001.backblazeb2.com/file/playcomb/TARZAN.png",
+            "https://f001.backblazeb2.com/file/playcomb/The+Maze2.png",
+            "https://f001.backblazeb2.com/file/playcomb/Treehouse2-2.png",
           ]
         }
         scrollAction={() =>

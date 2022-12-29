@@ -1,16 +1,16 @@
 ---
 name: "The Forbidden Forest"
 numHex: 3
-poster: "https://assets.playcomb.space/file/playcomb/small-Forbidden+Forest+w_background.png"
-materials: "https://assets.playcomb.space/file/playcomb/ForbiddenForest+materials.png"
-glb: "https://assets.playcomb.space/file/playcomb/Forbidden-Forest.glb"
-usdz: "https://assets.playcomb.space/file/playcomb/Forbidden-Forest.usdz"
+poster: "https://f001.backblazeb2.com/file/playcomb/small-Forbidden+Forest+w_background.png"
+materials: "https://f001.backblazeb2.com/file/playcomb/ForbiddenForest+materials.png"
+glb: "https://f001.backblazeb2.com/file/playcomb/Forbidden-Forest.glb"
+usdz: "https://f001.backblazeb2.com/file/playcomb/Forbidden-Forest.usdz"
 alt: "A forbidden place with swings and bridge to discover"
 scale: "5 5 5"
 ---
 
 <div class="about-img">
-    <img src="https://assets.playcomb.space/file/playcomb/ForbiddenForest.png" />
+    <img src="https://f001.backblazeb2.com/file/playcomb/ForbiddenForest.png" />
 </div>
 
 <div class="about-desc">

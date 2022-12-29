@@ -7,7 +7,7 @@ import * as styles from "./about.module.css"
 const About = () => (
   <Layout>
     <img
-      src="https://assets.playcomb.space/file/playcomb/logo.png"
+      src="https://f001.backblazeb2.com/file/playcomb/logo.png"
       alt="playcomb logo"
       className={styles.logo}
     />
@@ -16,19 +16,19 @@ const About = () => (
         <div class={styles.gallery}>
           <img
             class={styles.even}
-            src="https://assets.playcomb.space/file/playcomb/Arrival+House1.png"
+            src="https://f001.backblazeb2.com/file/playcomb/Arrival+House1.png"
           />
           <img
             class={styles.odd}
-            src="https://assets.playcomb.space/file/playcomb/IMG_1546.jpeg"
+            src="https://f001.backblazeb2.com/file/playcomb/IMG_1546.jpeg"
           />
           <img
             class={styles.odd}
-            src="https://assets.playcomb.space/file/playcomb/Treehouse2-2.png"
+            src="https://f001.backblazeb2.com/file/playcomb/Treehouse2-2.png"
           />
           <img
             class={styles.even}
-            src="https://assets.playcomb.space/file/playcomb/TARZAN.png"
+            src="https://f001.backblazeb2.com/file/playcomb/TARZAN.png"
           />
         </div>
       </div>
@@ -65,7 +65,7 @@ const About = () => (
         <div className={styles.profile}>
           <HexImage
             text={"Dustin"}
-            url={"https://assets.playcomb.space/file/playcomb/Dustin.jpg"}
+            url={"https://f001.backblazeb2.com/file/playcomb/Dustin.jpg"}
           />
           <p className={styles.caption}>
             Dustin Knopoff
@@ -76,7 +76,7 @@ const About = () => (
         <div className={styles.profile}>
           <HexImage
             text={"Sophia"}
-            url={"https://assets.playcomb.space/file/playcomb/Sophia.jpg"}
+            url={"https://f001.backblazeb2.com/file/playcomb/Sophia.jpg"}
           />
           <p className={styles.caption}>
             Sophia Ke <br />
@@ -86,7 +86,7 @@ const About = () => (
         <div className={styles.profile}>
           <HexImage
             text={"Katherine"}
-            url={"https://assets.playcomb.space/file/playcomb/Katherine.png"}
+            url={"https://f001.backblazeb2.com/file/playcomb/Katherine.png"}
           />
           <p className={styles.caption}>
             Katherine Dong <br />
@@ -96,7 +96,7 @@ const About = () => (
         <div className={styles.profile}>
           <HexImage
             text={"Austin"}
-            url={"https://assets.playcomb.space/file/playcomb/Austin.jpg"}
+            url={"https://f001.backblazeb2.com/file/playcomb/Austin.jpg"}
           />
 
           <p className={styles.caption}>
@@ -108,7 +108,7 @@ const About = () => (
         <div className={styles.profile}>
           <HexImage
             text={"Karli"}
-            url={"https://assets.playcomb.space/file/playcomb/Karli.jpg"}
+            url={"https://f001.backblazeb2.com/file/playcomb/Karli.jpg"}
           />
           <p className={styles.caption}>
             Karli Young <br />

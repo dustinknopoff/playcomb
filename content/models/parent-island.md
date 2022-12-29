@@ -1,16 +1,16 @@
 ---
 name: "The Parent Island"
 numHex: 1
-poster: "https://assets.playcomb.space/file/playcomb/small-Parentisland—nobackground.png"
-materials: "https://assets.playcomb.space/file/playcomb/Parent+island+materials.png"
-glb: "https://assets.playcomb.space/file/playcomb/Parent-Island.glb"
-usdz: "https://assets.playcomb.space/file/playcomb/Parent-Island.usdz"
+poster: "https://f001.backblazeb2.com/file/playcomb/small-Parentisland—nobackground.png"
+materials: "https://f001.backblazeb2.com/file/playcomb/Parent+island+materials.png"
+glb: "https://f001.backblazeb2.com/file/playcomb/Parent-Island.glb"
+usdz: "https://f001.backblazeb2.com/file/playcomb/Parent-Island.usdz"
 alt: "One island place for parents to rest"
 scale: "1.5 1.5 1.5"
 ---
 
 <div class="about-img">
-    <img src="https://assets.playcomb.space/file/playcomb/Parentisland.png" />
+    <img src="https://f001.backblazeb2.com/file/playcomb/Parentisland.png" />
 </div>
 
 <div class="about-desc">

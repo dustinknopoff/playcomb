@@ -13,27 +13,27 @@ const OurSystems = () => (
         </h2>
         <hr />
         <p>
-        A key distinguishing factor of our playground from others is its flexibility 
-        to work during COVID or post-COVID, in a small middle-of-the-city park or a large 
-        empty space in the suburbs. To accomplish this flexibility, we’ve designed our 
-        playground with modularity in mind. Our playground is a collection of “islands” 
-        that can be configured and re-configured as desired on a hexogonal grid. Coupled 
-        with this idea of modularity, and intended to keep kids separated, is our other key 
-        design principle of multiplicity. By making the same experience available in 
-        multiple places, kids can share experiences from a safe distance, and not feel 
-        the need to crowd into the only space available for an activity there is to do. 
+          A key distinguishing factor of our playground from others is its flexibility
+          to work during COVID or post-COVID, in a small middle-of-the-city park or a large
+          empty space in the suburbs. To accomplish this flexibility, we’ve designed our
+          playground with modularity in mind. Our playground is a collection of “islands”
+          that can be configured and re-configured as desired on a hexogonal grid. Coupled
+          with this idea of modularity, and intended to keep kids separated, is our other key
+          design principle of multiplicity. By making the same experience available in
+          multiple places, kids can share experiences from a safe distance, and not feel
+          the need to crowd into the only space available for an activity there is to do.
         </p>
       </div>
       <div className={"right"} style={{ margin: "20px" }}>
         <img
-          src="https://assets.playcomb.space/file/playcomb/Swingland.png"
+          src="https://f001.backblazeb2.com/file/playcomb/Swingland.png"
           alt="picture of swing land"
         />
       </div>
     </div>
     <div className={"full"}>
       <video alt="playcomb video" autoPlay muted loop>
-        <source src="https://assets.playcomb.space/file/playcomb/Animation.mp4" type="video/mp4" />
+        <source src="https://f001.backblazeb2.com/file/playcomb/Animation.mp4" type="video/mp4" />
       </video>
     </div>
     <div className={"full"}>
@@ -41,10 +41,10 @@ const OurSystems = () => (
         <h2>The Guiding Hand Principle</h2>
         <hr />
       </div>
-      <div className="middle" style={{ marginTop: "20%"}}>
-        <img src="https://assets.playcomb.space/file/playcomb/Parentisland.png" />
+      <div className="middle" style={{ marginTop: "20%" }}>
+        <img src="https://f001.backblazeb2.com/file/playcomb/Parentisland.png" />
       </div>
-      <div className="right2" style={{ marginTop: "20%"}}>
+      <div className="right2" style={{ marginTop: "20%" }}>
         <p style={{ width: "80%" }}>
           Kids are chaos. They are are incredibly difficult to regulate,
           especially on rules about physical self-control. But the beauty of

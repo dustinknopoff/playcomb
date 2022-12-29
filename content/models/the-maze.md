@@ -1,17 +1,17 @@
 ---
 name: "The Maze"
 numHex: 4
-poster: "https://assets.playcomb.space/file/playcomb/small-The+Maze—nobackground.png"
-materials: "https://assets.playcomb.space/file/playcomb/Maze+materials.png"
-glb: "https://assets.playcomb.space/file/playcomb/The-Maze.glb"
-usdz: "https://assets.playcomb.space/file/playcomb/The-Maze.usdz"
+poster: "https://f001.backblazeb2.com/file/playcomb/small-The+Maze—nobackground.png"
+materials: "https://f001.backblazeb2.com/file/playcomb/Maze+materials.png"
+glb: "https://f001.backblazeb2.com/file/playcomb/The-Maze.glb"
+usdz: "https://f001.backblazeb2.com/file/playcomb/The-Maze.usdz"
 alt: "Outdoor open up maze with tunnel, wood climb and slide"
 scale: "1.5 1.5 1.5"
 ---
 
 <div class="about-img-mult">
-    <img src="https://assets.playcomb.space/file/playcomb/The+Maze1.png" class="about-img-top" />
-    <img src="https://assets.playcomb.space/file/playcomb/The+Maze2.png" class="about-img-bottom" />
+    <img src="https://f001.backblazeb2.com/file/playcomb/The+Maze1.png" class="about-img-top" />
+    <img src="https://f001.backblazeb2.com/file/playcomb/The+Maze2.png" class="about-img-bottom" />
 </div>
 
 <div class="about-desc">
